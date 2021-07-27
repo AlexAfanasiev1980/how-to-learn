@@ -1,0 +1,15 @@
+.khan__bay-link {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 48px;
+  text-decoration: none;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+}
+
+.khan__bay-link:hover {
+  opacity: .7;
+  transition: 0.5s;
+}

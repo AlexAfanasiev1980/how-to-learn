@@ -7,11 +7,11 @@
   font-size: 36px;
   font-weight: normal;
   text-decoration: none;
-
+  color: #2f80ed;
+  transition: 0.5s;
 }
 
 .feynman__link:hover {
-opacity: .7;
-transition: 0.5s;
+  opacity: .7;
 }
 

@@ -7,9 +7,9 @@
   font-size: 30px;
   font-weight: normal;
   color: #2f80ed;
+  transition: 0.5s;
 }
 
 .khan__bay-link:hover {
   opacity: .7;
-  transition: 0.5s;
 }
